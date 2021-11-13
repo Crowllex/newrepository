@@ -1,2 +1,2 @@
-##EJEMPLO - GIT
+EJEMPLO - GIT
 Soy readme
